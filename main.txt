@@ -6,3 +6,4 @@ goodbye
 hello again
 salam
 chetori
+khodahafez
